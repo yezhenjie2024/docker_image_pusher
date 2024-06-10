@@ -6,3 +6,5 @@ kasmweb/nginx:1.25.3
 2224758988/onecloud:openwrt-1.0
 6053537/portainer-ce
 whyour/qinglong:latest
+xiaoyaliu/alist:latest
+xhofe/alist:latest
